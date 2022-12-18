@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.vid_Container{
+    display: flex;
+    justify-content: center;
+}
+
